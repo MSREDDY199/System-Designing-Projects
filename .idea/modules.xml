@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Coffee Vending Machine/Coffee Vending Machine.iml" filepath="$PROJECT_DIR$/Coffee Vending Machine/Coffee Vending Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logger framework/Logger framework.iml" filepath="$PROJECT_DIR$/Logger framework/Logger framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parking Lot/Parking Lot.iml" filepath="$PROJECT_DIR$/Parking Lot/Parking Lot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rate limitter/Rate limitter.iml" filepath="$PROJECT_DIR$/Rate limitter/Rate limitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Snake and Ladder/Snake and Ladder.iml" filepath="$PROJECT_DIR$/Snake and Ladder/Snake and Ladder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack Overflow/Stack Overflow.iml" filepath="$PROJECT_DIR$/Stack Overflow/Stack Overflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack over flow/Stack over flow.iml" filepath="$PROJECT_DIR$/Stack over flow/Stack over flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/System Designing Projects.iml" filepath="$PROJECT_DIR$/.idea/System Designing Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task Scheduler/Task Scheduler.iml" filepath="$PROJECT_DIR$/Task Scheduler/Task Scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tic Tac Toe/Tic Tac Toe.iml" filepath="$PROJECT_DIR$/Tic Tac Toe/Tic Tac Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Traffic control/Traffic control.iml" filepath="$PROJECT_DIR$/Traffic control/Traffic control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vending machine/Vending machine.iml" filepath="$PROJECT_DIR$/Vending machine/Vending machine.iml" />
+    </modules>
+  </component>
+</project>
